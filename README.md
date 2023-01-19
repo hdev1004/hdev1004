@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
 ## 👨‍💻기술 스택
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -45,8 +46,8 @@ Here are some ideas to get you started:
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=for-the-badge&logo=FLUTTER&logoColor=white)
 
 <br>
+-->
 
-## 🔖 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdev1004)](https://solved.ac/hdev1004/)
 
 <!--
