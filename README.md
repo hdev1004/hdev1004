@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jinwon%20Github%20🙂&animation=scaleIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jinwon%20Github%20🙂&animation=scaleIn) -->
 
 ## 💁🏻‍♂️소개
 😊 방문해주셔서 감사합니다 😊
@@ -26,29 +26,19 @@ Here are some ideas to get you started:
 
 ## 👨‍💻기술 스택
 
-### 🔖 프론트 엔드
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white)
 
-<br>
-
-### 🔖 백 엔드
 ![JSP](https://img.shields.io/badge/JSP-1E8CBE.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 
-<br>
-
-### 🔖 응용 프로그램
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
 ![C SHARP](https://img.shields.io/badge/C%20SHARP-239120.svg?&style=for-the-badge&logo=C%20SHARP&logoColor=white)
 
-<br>
-
-### 🔖 기타
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2b%2b-00599C.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=white)
@@ -56,7 +46,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🔖 백준
+## 🔖 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdev1004)](https://solved.ac/hdev1004/)
 
 <!--
