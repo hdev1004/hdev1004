@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ![JSP](https://img.shields.io/badge/JSP-1E8CBE.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=PHP&logoColor=white)
-![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=PHP&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
+![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
 ![C SHARP](https://img.shields.io/badge/C%20SHARP-239120.svg?&style=for-the-badge&logo=C%20SHARP&logoColor=white)
