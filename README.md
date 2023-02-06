@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jinwon%20Github%20🙂&animation=scaleIn) -->
 
 ## 💁🏻‍♂️소개
-😊 방문해주셔서 감사합니다 😊
+방문해주셔서 감사합니다 😊
 
 <a href="https://blog.naver.com/zlatmgpdjtiq" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=NAVER&logoColor=white"/></a>
 <a href="https://hdev1004.github.io/" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white"/></a>
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <br>
 -->
 
+### 🌟BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdev1004)](https://solved.ac/hdev1004/)
 
 <!--
